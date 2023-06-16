@@ -428,7 +428,7 @@ h6 {
 
 #hero .container,
 #hero .container-fluid {
-  padding-top: 84px;
+  padding-top: 50px;
 }
 
 #hero h1 {
@@ -481,7 +481,7 @@ h6 {
 
   #hero .container,
   #hero .container-fluid {
-    padding-top: 68px;
+    padding-top: 50px;
   }
 
   #hero .animated {
@@ -509,13 +509,13 @@ h6 {
   }
 
   #hero .hero-img img {
-    width: 60%;
+    width: 50%;
   }
 }
 
 @media (max-width: 575px) {
   #hero .hero-img img {
-    width: 80%;
+    width: 49%;
   }
 }
 
